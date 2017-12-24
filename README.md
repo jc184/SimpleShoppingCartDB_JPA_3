@@ -1,0 +1,2 @@
+# SimpleShoppingCartDB_JPA_3
+A simple shopping cart based e-commerce web application that uses Java, JSP, JPA, JSTL, PayPal, and runs on Tomcat. Based on examples in the book 'Murach's Java Servlets and JSP' 3rd Edition, it uses a JavaScript client-side PayPal checkout facility, and reads product data from a RDBMS using JPA. It also allows for the addition of customer data, and allows customers to either register or login before checking out with PayPal.
